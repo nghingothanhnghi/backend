@@ -1,6 +1,6 @@
 # 🚀 Getting started with Strapi Headless CMS "@strapi/strapi": "4.3.8"
 
-### ' Compatable with'
+### 'compatible'
 - Node v16.17.0, npm v8.19.0 or yarn 1.22.19
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html) (CLI) which lets you scaffold and manage your project in seconds.
